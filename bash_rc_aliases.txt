@@ -1,0 +1,2 @@
+alias start='/home/zeni/projects/in_progress/scripts/doker_scripts/start_machine.sh'
+alias create='/home/zeni/projects/in_progress/scripts/doker_scripts/create_machine.sh'
